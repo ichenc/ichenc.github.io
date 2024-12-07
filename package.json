@@ -1,0 +1,21 @@
+{
+  "name": "chen-home-page",
+  "version": "1.0.0",
+  "description": "Chenxue Home Page",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ichenc/ichenc.github.io.git"
+  },
+  "keywords": [
+    "chen",
+    "HomePage"
+  ],
+  "author": "chen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ichenc/ichenc.github.io/issues"
+  },
+  "homepage": "https://github.com/ichenc/ichenc.github.io#readme"
+}
