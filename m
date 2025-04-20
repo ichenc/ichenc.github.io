@@ -1,8 +1,6 @@
-
-//      >>> 当前时间是：2025-04-20 21:15:52 <<<
 {
 "spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1745100884482/f0419a.txt;md5;ec3afd8dd9fce6c22718672546dc00a8",
-"wallpaper":"https://cn.bing.com/th?id=OHR.MouseholeXmas_EN-US1272999190_UHD.jpg",
+"wallpaper":"https://深色壁纸.xxooo.cf/",
 "sites":[
 {"key":"豆","name":"【神秘的哥哥们】","type":3,"api":"csp_DouDouGuard","indexs":1,"searchable":0,"quickSearch":0,"changeable":0},
 {"key":"玩偶","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGGGuard","timeout":30,"searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.com/","danMu":"弹"}},
@@ -70,7 +68,7 @@
 "searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce401946513bd90128b"}},
 {"key":"fan","name":"导航212001.xyz","type":3,"api":"csp_XPathGuard","searchable":1,"quickSearch":0,"changeable":0},
 {"key":"cc","name":"请勿相信视频中广告","type":3,"api":"csp_XPathGuard","searchable":1,"quickSearch":0,"changeable":0}
-]，
+],
 "logo":"https://s1.imagehub.cc/images/2025/01/15/e8b21391c58ed454c13ade26c003e857.gif",
 "lives":[
 {"name":"牛播一（仅新版影视仓┃ok影视）","type":0,"url":"http://127.0.0.1:9978/proxy?do=饭太硬&type=liveList","playerType":2,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.v1.mk/logo/{name}.png"},
