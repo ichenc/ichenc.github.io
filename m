@@ -64,10 +64,10 @@
 "searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce401946513bb2d1289"}},
 {"key":"高中教育","name":"📚高中┃课堂","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},
 "searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce401946513bd90128b"}},
-{"key":"fan","name":"导航www.饭太硬.com","type":3,"api":"csp_XPathGuard","searchable":1,"quickSearch":0,"changeable":0},
+{"key":"fan","name":"导航","type":3,"api":"csp_XPathGuard","searchable":1,"quickSearch":0,"changeable":0},
 {"key":"cc","name":"请勿相信视频中广告","type":3,"api":"csp_XPathGuard","searchable":1,"quickSearch":0,"changeable":0}
 ],
-"logo":"https://cdn.wmpvp.com/steamWeb/B96F868DE45B45D690B5F9F490D0BC60-1745866248445.gif",
+"ads":["mozai.4gtv.tv"],
 "lives":[
 {"name":"爱直播","type":0,"url":"http://127.0.0.1:9978/proxy?do=live&url=https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/owXrpU7F.bmp","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","playerType":2,"timeout":10},
 {"name":"综合","type":0,"url":"http://127.0.0.1:9978/proxy?do=live&url=https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/PeIgAty8.txt","playerType":2,"timeout":10},
@@ -80,4 +80,5 @@
 {"name":"肥羊B站直播","type":3,"api":"csp_FeiyangGuard","url":"bililive.m3u","timeout":10,"ua":"okhttp/3.15"},
 {"name":"肥羊斗鱼一起看","type":3,"api":"csp_FeiyangGuard","url":"douyuyqk.m3u","timeout":10,"ua":"okhttp/3.15"},
 {"name":"肥羊YY轮播","type":3,"api":"csp_FeiyangGuard","url":"yylunbo.m3u","timeout":10,"ua":"okhttp/3.15"}
-]}
+]
+}
