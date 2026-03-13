@@ -1,6 +1,6 @@
 {
-    "spider": "https://cn.bing.com/th?id=OHR.WhanganuiPark_EN-US9741312204_UHD.jpg",
-    "wallpaper": "https://深色壁纸.xxooo.cf/",
+    "spider": "https://oss4liview.moji.com/thd_file/2026/03/13/ade076ad2d020d3ee6457ca6c359aa3e.jpg;md5;ffa5c3d25aca89bc39e8e1ddf28e2ae5",
+    "wallpaper": "https://cn.bing.com/th?id=OHR.WhanganuiPark_EN-US9741312204_UHD.jpg",
     "sites": [
         {
             "key": "点我切源",
