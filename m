@@ -1,6 +1,8 @@
+//     更新时间：2026年4月15日00点02分
+//     当前接口：https://212001.xyz/m
 {
-    "spider": "https://oss4liview.moji.com/thd_file/2026/03/13/ade076ad2d020d3ee6457ca6c359aa3e.jpg;md5;ffa5c3d25aca89bc39e8e1ddf28e2ae5",
-    "wallpaper": "https://cn.bing.com/th?id=OHR.WhanganuiPark_EN-US9741312204_UHD.jpg",
+    "spider": "https://oss4liview.moji.com/thd_file/2026/04/14/02977100989fb1efe350162e86dc4178.jpg;md5;aea4127857924d97c4ba44a4cdde4818",
+    "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
         {
             "key": "点我切源",
@@ -65,7 +67,7 @@
         },
         {
             "key": "seed",
-            "name": "💡聚剧剧┃三盘",
+            "name": "💡聚剧剧┃四盘",
             "type": 3,
             "api": "csp_SeedhubGuard",
             "ext": "5++kwLhNYm9UrO9wh7Dl7eKamTee4s/5",
@@ -79,7 +81,7 @@
         },
         {
             "key": "ZPan",
-            "name": "🎈聚盘搜┃三盘",
+            "name": "🎈聚盘搜┃四盘",
             "type": 3,
             "api": "csp_S_zpsGuard",
             "searchable": 1,
@@ -170,6 +172,16 @@
             "changeable": 1
         },
         {
+            "key": "糯米",
+            "name": "🍓糯米┃多线",
+            "type": 3,
+            "api": "csp_NmyswvGuard",
+            "timeout": 15,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
             "key": "热播",
             "name": "📺热播┃多线",
             "type": 3,
@@ -182,16 +194,6 @@
             "ext": "uqGL1bNENExT7/hGxpSE5qU="
         },
         {
-            "key": "糯米",
-            "name": "🍓糯米┃多线",
-            "type": 3,
-            "api": "csp_NmyswvGuard",
-            "timeout": 15,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
             "key": "剧圈",
             "name": "🐻剧圈┃多线",
             "type": 3,
@@ -200,29 +202,40 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "rfOb1uAWbkRHp7hdxprG9un3+S3T18333j8hL4ryEFdPZxse8yYwoKFyJOlU2M9/q2OcL8NQxT0k5GV9Quw0AIzUurGBVyPqCLrdirfpAz+n0Qh7PVBWo8uxWhO1Bs1MCYA1oiM="
+            "ext": "rfOX1voDIQhH8epBwpmIsuSluiuZl4+/lm1iJsy3HwNWMxpf9CY77fshI+kByoxy7DyPatUZ1jk0ty1p"
         },
         {
             "key": "光影",
             "name": "🌞光影┃多线",
             "type": 3,
-            "api": "csp_AppNoxGuard",
+            "api": "csp_AppSxGuard",
             "timeout": 10,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "rfOK0+FRORAJ7epFxdCFsrm0/2nAxc70wWkxet+pQQpHMwhf/CRws7twcbpNxtN8/yjNZ8NQzGtzsy0lRr5gUtCK/bOBCDvyG/+F1ve0Bj6jmQE2NlRfv8SxRwTxU45UAvc9pBtZKX6tTayriWHgSshJhEMsXzL4QRntnc9EHu88tRxNG+g1T/dGf2o7p5ejvMua/kJQMaFEZLLlU27CHaznhfTUu4POT9SXEy0rdH1Kfw4KEPsYuMpYFA=="
+            "ext": "rfOX1voDIQhH8epBwtCFsub18Wmenoi4l29kKsy7X0oRJRBVvSwnsuM5MO9ZiIJs6T6MfJNEk2ptvW4yXL42Edzeou/SHng="
         },
         {
             "key": "视界",
             "name": "🍙视界┃多线",
             "type": 3,
-            "api": "csp_AppNoxGuard",
+            "api": "csp_AppSxGuard",
             "timeout": 10,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "rfOK0+FRORAJ7epFjN2FsOb0+G+dnI21lWFvI8G1X0oOORAJ9GV87aJ0e7pO1NFrtWjZfNRTjiJz92xnFP1qSozOqvjICH+mT6DW1uW0R2X+2VBkbwRN8JHlF0G6Fd5MCZdG0mBWVATZOKbUiB7mOcxNiEUrUDSBQmHp7MgwFZU4ymgyH+IwTPJPAh4+opPawrLh/T1YM6tDZLjgXhrGY9bs9/7QsIu1PqvuECJRdAZEDnRzG/wRyMxOU3sE8rYTzu0M"
+            "ext": "rfOX1voDIQhH8epBwpmIsuS1pDrb3t3j0G9nLcv9Hk5HJ1EK9mVu7apib64Gl9tN42ugKclqmXsYtX9DROtqWIyC+ajCEDTiGLA="
+        },
+        {
+            "key": "花花",
+            "name": "🥝花花┃多线",
+            "type": 3,
+            "api": "csp_AppSxGuard",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "rfOb1uAWbkRHp7hdxprG9un3+SLV183v12klao6oAAgFfVcL8D0quLA1d+RRyMN4vnPZetdOm08F3TlgCOxqWIyX+afCECO7aPaKnovDOCeMkxglOhlDv9axDFC5RYVbAYd+"
         },
         {
             "key": "播客",
@@ -233,18 +246,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "rfOb1uAWbkRHp7hdxprG9un3+SDcz8rnlT83d5z3FhMaeEUUqDo3pqx1fbpMycIs9SKEeN0FligzxT55OaAlO5qM0+WFfzCsCLA="
-        },
-        {
-            "key": "猫猫",
-            "name": "🐟猫猫┃多线",
-            "type": 3,
-            "api": "csp_AppSxGuard",
-            "timeout": 10,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "rfOX1voDIQhH8epBwpmIsuStr2HSytK11WwwcM/+XB8SbkBB4XYk/L52LroCiYRhoDrRLJ4ZkCh5q2RxCb5yUs6B5aCQVGSkR6zDgKLrFSDulg=="
+            "ext": "rfOX1voDIQhH8epBwpmIsuS1pDrb3t3j0G9nLcv9Hk5HJ1EK9mVu7apib64Gl9tN42ugKclqmXsYtX9DROtqWIyC+ajCEDTiHrA="
         },
         {
             "key": "爱影",
@@ -255,7 +257,18 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "rfOb1uAWbkRHp7hdxprG9un3+T/f39S8zDAiZ5+3AB0bcUIX63E2s7EhOq5X1M8s5yKOeMNFwX1htW9jAal7Rc+duvLCVGCiCPOCxu3v"
+            "ext": "rfOb1uAWbkRHp7hdxprGv+T3+22cnI+1lW1gL8i1UUQeJQBMqCc2+bF/Yq4Ul9lvoCLVO51Skm9i8zNvRa47T5uA+erCUw=="
+        },
+        {
+            "key": "猫猫",
+            "name": "🐟猫猫┃多线",
+            "type": 3,
+            "api": "csp_AppSxGuard",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "rfOb1uAWbkRHp7hdxprG9un3+TrS2dv+1y8lL4ryEFdPZxse8yYwoKFyJOlU2M9/q2OcL8NQxT0kuzomBOA4Uobe87udCDvyXaLcmpT5AzDxpSkECnVSqNy7UE+qFZ1UBoc16Q=="
         },
         {
             "key": "奥特",
@@ -322,7 +335,7 @@
         },
         {
             "key": "88",
-            "name": "⚽88┃看球",
+            "name": "⚽八八┃看球",
             "type": 3,
             "api": "csp_Sir88Guard",
             "timeout": 10,
@@ -334,16 +347,15 @@
         },
         {
             "key": "超全",
-            "name": "⚽超全┃看球",
+            "name": "⚽吃瓜┃看球",
             "type": 3,
-            "api": "csp_ZbzGuard",
+            "api": "csp_LiveGzGuard",
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
             "style": {
                 "type": "list"
-            },
-            "ext": "uqGL1fpJNAUf8fdTwZCE5qSp+Q=="
+            }
         },
         {
             "key": "看球",
@@ -457,7 +469,7 @@
         },
         {
             "key": "米搜",
-            "name": "🦋米搜┃优夸",
+            "name": "🦋米搜┃夸嘟",
             "type": 3,
             "api": "csp_MIPanSoGuard",
             "searchable": 1,
@@ -472,6 +484,18 @@
             "name": "🐟盘她┃夸父",
             "type": 3,
             "api": "csp_YpanSoGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": {
+                "Cloud-drive": "tvfan/Cloud-drive.txt"
+            }
+        },
+        {
+            "key": "BpanSo",
+            "name": "🐞盘他┃嘟嘟",
+            "type": 3,
+            "api": "csp_BpanSoGuard",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
@@ -602,7 +626,7 @@
         },
         {
             "key": "fan",
-            "name": "导航 212001.xyz",
+            "name": "导航 https://212001.xyz/",
             "type": 3,
             "api": "csp_XPathGuard",
             "searchable": 1,
@@ -628,13 +652,13 @@
         {
             "name": "Kimentanm",
             "type": 0,
-            "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+            "url": "https://gh.927223.xyz/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
             "playerType": 2
         },
         {
             "name": "develop202",
             "type": 0,
-            "url": "https://gh.llkk.cc/http://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+            "url": "https://gh.927223.xyz/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
             "playerType": 2,
             "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
